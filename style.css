@@ -7,3 +7,8 @@ h2 {
   font-family: 'Roboto', sans-serif;
 }
 
+img {
+height: 150 px;
+width: 150 px;
+border-radius: 50%;
+}
