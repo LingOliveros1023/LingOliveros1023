@@ -12,3 +12,13 @@ height: 150 px;
 width: 150 px;
 border-radius: 50%;
 }
+
+#landing,
+gallery {
+  height: 80vh;
+  /* center the content vertically using flexbox */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
